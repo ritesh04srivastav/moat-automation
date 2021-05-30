@@ -3,8 +3,9 @@ moat-automation practice
 
 Pre-requisites:
 
-1. Please install all packages b=using requirement.txt
+1. Please install all packages using requirement.txt
 2. you should download chrome driver according to the Chrome browser installed in the system.
+3. Place the chrome driver in drivers folder.
 
 To Run the tests:
 1. Through command:
